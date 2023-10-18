@@ -35,7 +35,7 @@
 
 
 ### SGDB's
-  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/firebird.png" width="160" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄
+  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/firebird.png" width="24" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄
   
   <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/icons8-microsoft-sql-server.svg" width="24" height="24" style="background-color: lightgray" title="SQL Server"/> 🔥🔥🔥❄❄
   
