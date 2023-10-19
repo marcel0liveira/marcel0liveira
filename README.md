@@ -49,9 +49,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="24" height="24" title="Xamarim"/> 🔥🔥❄❄❄
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" height="24" title="Azure"/> 🔥🔥🔥❄❄
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" height="24" title="Azure"/> 🔥🔥❄❄❄
 
-<img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/icons8-unidade.svg" width="24" height="24" style="background-color: lightgray" title="Unity"/> 🔥🔥🔥❄❄
+<img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/icons8-unidade.svg" width="24" height="24" style="background-color: lightgray" title="Unity"/> 🔥🔥❄❄❄
 
           
   
