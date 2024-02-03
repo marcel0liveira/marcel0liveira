@@ -1,29 +1,39 @@
-# Beleza?
-## Bem vindo ao meu perfil do GitHub 👋
+## Olá, seja bem vindo ao meu perfil do GitHub 👋
 
-## Em construção:
+### Em construção:
 - 🔭 Atualmente estou trabalhando em: C#, Asp.Net, javascript
-- 🌱 Atualmente estou aprendendo: Blazor
-- 👯 Estou procurando colaborar em C#, Delphi
-- 🤔 Estou procurando ajuda com: Blazor
-- 📫 Como entrar em contato comigo: Linkdn
+- 🌱 Atualmente estou aprendendo: Blazor, React, e aperfeiçoando C#. 
+- 👯 Estou procurando colaborar em C#, Delphi.
+- 🤔 Estou procurando ajuda com: Blazor.
+- 📫 Como entrar em contato comigo: Instagram, Linkdn...
 
 
+### Git Stats:
+<div>
+<a href="https://github.com/marcel0liveira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcel0liveira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcel0liveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">         
 
-## _Códificando:_
+<!--
+Icones: https://devicon.dev/
+-->
+  
+### _Códificando:_
   <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-delphi.svg" width="24" height="24" title="Delphi 7, XE"/> 🔥🔥🔥🔥❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24" title="C#"/> 🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" title="Javascript"/> 🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="24" height="24" title="HTML5" style="background-color: lightgray"/> 🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" title="CSS"/> 🔥🔥🔥❄❄  
 
-## Ferramentas e Tecnologias:
+### Ferramentas e Tecnologias:
   <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-delphi.svg" width="24" height="24" title="Delphi 7, XE"/> 🔥🔥🔥🔥❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="24" height="24" title=".NET"/> 🔥🔥🔥❄❄  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="24" height="24" title=".NET Core"/> 🔥🔥🔥❄❄ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="24" height="24" title=".NET Core"/> 🔥🔥🔥❄❄  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" title="GitHub"/> 🔥🔥❄❄❄ 
 
-## Blibliotecas
+### Blibliotecas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="24" height="24" Title="JQuery"/> 🔥🔥🔥❄❄ 
           
 ### IDE:
@@ -43,7 +53,7 @@
    * <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-unidade.svg" width="24" height="24" style="background-color: lightgray" title="Unity"/> 🔥🔥❄❄❄
    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" style="background-color: lightgray" title="React.js"/> 🔥❄❄❄❄
 
-## Loading....
+### Loading....
 
 <!--
 ### ...Loading, Olá 👋
