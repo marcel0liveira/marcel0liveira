@@ -1,10 +1,12 @@
 ## Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 ### Em construção:
-- 🔭 Atualmente estou trabalhando em: C#, Asp.Net, javascript
-- 🌱 Atualmente estou aprendendo: Blazor, React, e aperfeiçoando C#. 
-- 👯 Estou procurando colaborar em C#, Delphi.
-- 🤔 Estou procurando ajuda com: Blazor.
+- ⏰ Atualmente:
+  - 🔭 Trabalhando em: C#, Asp.Net, javascript
+  - 🌱 Aprendendo: Blazor, React, .Node e aperfeiçoando C#. 
+- 🔎 Procurando:
+  - 👯 Colaborar: C#, Delphi, BD.
+  - 🤔 Ajuda com: Blazor.
 - 📫 Como entrar em contato comigo: Instagram, Linkdn...
 
 
