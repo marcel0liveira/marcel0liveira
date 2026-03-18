@@ -44,7 +44,9 @@ Icones: https://devicon.dev/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="24" height="24" title="Visual Studio"/> 🔥🔥🔥🔥❄    
 
 ### SGDB's
-  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/th.jpg" width="24" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄  
+  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/th.jpg" width="24" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="24" height="24" title="POSTGRES"/> 🔥🔥🔥❄❄
+          
   <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-microsoft-sql-server.svg" width="24" height="24" style="background-color: lightgray" title="SQL Server"/> 🔥🔥🔥🔥❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" title="MySQL"/> 🔥🔥🔥❄❄  
 
