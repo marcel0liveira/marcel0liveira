@@ -2,7 +2,7 @@
 
 ### Em construção:
 - ⏰ Atualmente:
-  - 📖 Cursando Pós em Arquitetura de Sistemas .Net na FIAP.
+  - 📖 Cursando Pós na **FIAP** em: Arquitetura de Sistemas .Net.
   - 🔭 Trabalhando em: C#, Asp.Net, javascript.
   - 🌱 Aprendendo: Blazor, React, .Node e aperfeiçoando C#. 
 - 🔎 Procurando:
