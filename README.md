@@ -8,8 +8,8 @@
 - 🔎 Procurando:
   - 👯 Colaborar: C#, Delphi, BD.
   - 🤔 Ajuda com: Blazor.
-- 📫 Como entrar em contato comigo: Instagram, Linkdn...
-
+- 📫 Como entrar em contato comigo:
+  - [Linkdin](https://www.linkedin.com/in/marcel0liveira/) 
 
 ### Git Stats:
 <div>
@@ -24,9 +24,10 @@ Icones: https://devicon.dev/
 -->
   
 ### _Códificando:_
-  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-delphi.svg" width="24" height="24" title="Delphi 7, XE"/> 🔥🔥🔥🔥❄  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24" title="C#"/> 🔥🔥🔥❄❄  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24" title="C#"/> 🔥🔥🔥⚡❄  
+  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-delphi.svg" width="24" height="24" title="Delphi 7, XE"/> 🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" title="Javascript"/> 🔥🔥🔥❄❄  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="24" height="24" title="Node.js" style="background-color: lightgray"/>🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="24" height="24" title="HTML5" style="background-color: lightgray"/> 🔥🔥🔥❄❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" title="CSS"/> 🔥🔥🔥❄❄  
 
@@ -43,12 +44,14 @@ Icones: https://devicon.dev/
   <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/rad-studio-logo-128.webp" width="24" height="24" title="RAD Studio"/> 🔥🔥🔥🔥❄  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="24" height="24" title="Visual Studio"/> 🔥🔥🔥🔥❄    
 
-### SGDB's
-  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/th.jpg" width="24" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="24" height="24" title="POSTGRES"/> 🔥🔥🔥❄❄
-          
-  <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-microsoft-sql-server.svg" width="24" height="24" style="background-color: lightgray" title="SQL Server"/> 🔥🔥🔥🔥❄  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" title="MySQL"/> 🔥🔥🔥❄❄  
+### SGDB's 
+  - ### SQL
+    <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/th.jpg" width="24" height="24" title="FIREBIRD"/> 🔥🔥🔥🔥❄          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="24" height="24" title="POSTGRES"/> 🔥🔥🔥❄❄          
+    <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/icons8-microsoft-sql-server.svg" width="24" height="24" style="background-color: lightgray" title="SQL Server"/> 🔥🔥🔥🔥❄  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" title="MySQL"/> 🔥🔥🔥❄❄
+  - ### NO-SQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="24" height="24" title="MongoDB"/> 🔥🔥🔥❄❄
 
 ### Aventuras e Cursos
    * <img src="https://github.com/marcel0liveira/marcel0liveira/blob/main/img/R.png" width="24" height="24" title="BLAZOR"/> 🔥🔥❄❄❄
